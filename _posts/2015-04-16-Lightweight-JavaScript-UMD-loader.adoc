@@ -1,0 +1,6 @@
+= Lightweight JavaScript UMD loader
+:hp-tags: Module Loader, Asynchronous, UMD
+
+Simple promise api to load a UMD Javascript module with relative or absolute urls.
+
+More at https://github.com/cliren/async-loader
