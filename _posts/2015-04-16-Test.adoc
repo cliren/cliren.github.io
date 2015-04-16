@@ -1,1 +1,5 @@
 # Test
+
+## Using ES6? Here is a fully backed template with all build tools using gulp/webpack, testing with karma/jasmine, handlebar templates and more...
+
+More at https://github.com/cliren/webpack-karma-gulp-es6
