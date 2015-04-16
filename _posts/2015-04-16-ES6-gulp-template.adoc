@@ -1,0 +1,7 @@
+= ES6 gulp template
+
+
+:hp-tags: ES6, webpack, gulp, karma, jasmine, handlebars
+
+Here is a fully backed template with all build tools using gulp/webpack, testing with karma/jasmine, handlebar templates and more...
+Repo at https://github.com/cliren/webpack-karma-gulp-es6
