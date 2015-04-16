@@ -1,4 +1,4 @@
-# Test
+# T
 
 ## Using ES6? Here is a fully backed template with all build tools using gulp/webpack, testing with karma/jasmine, handlebar templates and more...
 
