@@ -1,0 +1,3 @@
+# Using HTML base tag for resolving relative paths to another domain? 
+
+You might run into issues with anchor tags as described in this repository, see more at https://github.com/cliren/base-tag-anchor-polyfill
